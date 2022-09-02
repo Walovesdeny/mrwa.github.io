@@ -1,0 +1,54 @@
+h1{
+      display: grid;
+      place-items: center;
+      color: #fff45c;
+    }
+    h2{
+      display: grid;
+      place-items: center;
+      color:#f500ff;
+    }
+    h3{
+      display: grid;
+      place-items: center;
+      color:#00ccff;
+    }
+    h4{
+      display: grid;
+      position: absolute;
+      top: 350px;
+      left: 115px;
+      color:#44f9ff;
+    }
+    h5{
+      position: absolute;
+      top: 356px;
+      left: 110px;
+      font-size: 37px;
+      color:#be00ff;
+    }
+    h6{
+      position: absolute;
+      top: 323px;
+      left: 310px;
+      font-size: 40px;
+      color: #be00ff;
+    }
+    img{
+      height: 200;
+      display: grid;
+      position: absolute;
+      left: 115px;
+      
+    }
+    input{
+     position: absolute;
+     top:60px;
+     left:85px;
+    }
+    body{
+      background-image: url(background.jpg);
+      background-size: 500px;
+      background background-repeat: no-repeat;
+      background-blend-mode: yes;
+    }
